@@ -39,7 +39,7 @@ py
 python     -m venv name_venv   |  create venv
 python3
 
-pip freeze -> requirements.txt    | для сохранения зависимостей в файл
+pip freeze -> requirements.txt    | для сохранения за висимостей в файл requirements.txt
 
 git reset .        | сброс  то что находится после команды git add
 git restore .      | сброс всех файлов или одного до состояния коммита

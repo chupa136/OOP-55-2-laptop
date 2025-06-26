@@ -85,9 +85,9 @@ my_list = CustomList([1,23,123,4,32,321,423,4,12])
 
 
 
-from colorama import Fore, Back, Style
-print(Fore.RED + 'some red text')
-print(Back.GREEN + 'and with a green background')
-print(Style.DIM + 'and in dim text')
-print(Style.RESET_ALL)
-print('back to normal now')
+#from colorama import Fore, Back, Style
+#print(Fore.RED + 'some red text')
+#print(Back.GREEN + 'and with a green background')
+#print(Style.DIM + 'and in dim text')
+#print(Style.RESET_ALL)
+#print('back to normal now')
